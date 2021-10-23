@@ -20,6 +20,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/Palakis/obs-websocket.git
-        commit: 2f252f67ba627fca45d093d02db7d899e13dca46
+        commit: d05ff26930d3e2390b69c60c96cbb064dae93d19
       - type: file
         path: com.obsproject.Studio.Plugin.WebSocket.metainfo.xml
